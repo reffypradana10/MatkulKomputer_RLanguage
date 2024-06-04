@@ -1,0 +1,7 @@
+no  nama_anime  tahun score
+1   konosuba    2023  8.51
+2   one_piece   1999  8.72
+3   kanokari    2023  7.07
+4   psycho_pass 2019  7.45
+5   hibike      2024  8.68
+6   gintama     2015  9.06
